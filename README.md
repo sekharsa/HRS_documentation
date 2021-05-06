@@ -1,6 +1,6 @@
 # HOSPITAL SEARCH BAR
 
-![Hospitalsearchbar] (Images/Screenshot(2).png)
+![Hospital search bar](Images/Screenshot1.png)
 
 This feture helps the user to search for hospital using some filters.
 The filters availble to search are:-
@@ -10,6 +10,7 @@ The filters availble to search are:-
 - City
 - Pincode
 - State
+
 
 ## Search results
 After pressing the search button, you will be directed to the search results page.
