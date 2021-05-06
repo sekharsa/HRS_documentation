@@ -42,7 +42,7 @@ Below are the steps for registering as a Doctor:
 
 * After clicking SignUp as a Doctor, you will get a Registration form as shown below.
 
-![UserRegForm](images/user_form.png)
+![Doctor Registration Form](Images/Docreg_form.png)
 
 * In Doctor Registration Form, Fill all the details asked in the form and make sure the requirements are fulfilled like in Password it should contain a Capital letter and some special characters.
 
