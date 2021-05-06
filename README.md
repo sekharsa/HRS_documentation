@@ -44,19 +44,19 @@ Below are the steps for registering as a Doctor:
 
 ![Doctor Registration Form](Images/Docreg_form.png)
 
-* In Doctor Registration Form, Fill all the details asked in the form and make sure the requirements are fulfilled like in Password it should contain a Capital letter and some special characters.
+* In Doctor Registration Form, Fill all the details asked in the form and make sure the requirements are fulfilled like in Password it should contain a Capital letter, a small letter and some special characters and a minimum length of 8 charecters.
 
 * After filling all details required in the form click on Register Button.
 
 * After registering successfully, you will redirect to the main page with a message showing *Activate your account after clicking the link sent to your mail*.
 
-![UserRegistration](images/user_reg.gif)
+![Doctor Registration](Images/gif_docreg_1.gif)
 
 * Now, go to your registered mail and you can find a mail from *jeevannakshawad* with a activation link for your account.
 
-* Click on that link, now you are succesfully registered as a User and you will be redirected to the main page with the message *Account Activated Succesfully*.
+* Click on that link, now you are succesfully registered as a Doctor and you will be redirected to the main page with the message *Account Activated Succesfully*.
 
-![activateAccount](images/activate_account.gif)
+![activate Doctor Account](Images/activate_account.gif)
 
 #### *Now you're succesfully registered as a User.*
 
