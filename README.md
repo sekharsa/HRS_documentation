@@ -1,5 +1,6 @@
 # HOSPITAL SEARCH BAR
 
+![Hospitalsearch bar](Images/Screenshot(2).png)
 This feture helps the user to search for hospital using some filters.
 The filters availble to search are:-
 - Hospital name
