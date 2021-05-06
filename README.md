@@ -1,8 +1,8 @@
 # HOSPITAL SEARCH BAR
 
-![Hospital search bar](Images/Screenshot1.png)
+![Hospital search bar](Images/Screenshot2.png)
 
-This feture helps the user to search for hospital using some filters.
+This feature helps the user to search for hospital using some filters.
 The filters availble to search are:-
 - Hospital name
 - Hospital registration number
@@ -14,4 +14,16 @@ The filters availble to search are:-
 
 ## Search results
 After pressing the search button, you will be directed to the search results page.
-In this page you can see the cards of the hospitals based on filters  with their details on them
+In this page you can see the cards of the hospitals based on filters applied. The information given on cards is as follows:-
+- Profile photo of hospital to the left most
+- Ratigs to the rightmost
+- Location
+- Pincode
+- Chief medical officer
+- Phone number
+- Email
+
+
+## You can also view the hospital prifile by clicking 'view profile' button
+
+
