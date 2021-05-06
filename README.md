@@ -30,7 +30,7 @@ In this page you can see the cards of the hospitals based on filters applied. Th
 ##########################################################################
 
 
-#DOCTOR REGISTRATION
+# DOCTOR REGISTRATION
 
 Below are the steps for registering as a Doctor:
 
@@ -56,7 +56,7 @@ Below are the steps for registering as a Doctor:
 
 * Click on that link, now you are succesfully registered as a Doctor and you will be redirected to the main page with the message *Account Activated Succesfully*.
 
-![activate Doctor Account](Images/activate_account.gif)
+![activate Doctor Account](Images/gif_docreg_2.gif)
 
 #### *Now you're succesfully registered as a User.*
 
