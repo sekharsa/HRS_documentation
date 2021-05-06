@@ -23,6 +23,7 @@ In this page you can see the cards of the hospitals based on filters applied. Th
 - Phone number
 - Email
 
+![Hospital search bar gif](Images/gif_HS.gif)
 
 ## You can also view the hospital prifile by clicking 'view profile' button
 
