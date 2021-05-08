@@ -50,7 +50,7 @@ Below are the steps for registering as a Doctor:
 
 * After registering successfully, you will redirect to the main page with a message showing *Activate your account after clicking the link sent to your mail*.
 
-![Doctor Registration](Images/gif_docreg_1.gif)
+![Doctor Registration](Images/gif_docreg_3.gif)
 
 * Now, go to your registered mail and you can find a mail from *jeevannakshawad* with a activation link for your account.
 
